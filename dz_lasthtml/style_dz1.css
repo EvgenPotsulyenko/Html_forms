@@ -1,0 +1,64 @@
+h2
+{
+    /* color: whitesmoke;
+    background-color: rgb(204, 107, 54);
+    font-family: sans-serif;
+    position: absolute;
+    margin: 80px;
+    margin-left: 120px; */
+  background-color: rgb(204, 107, 54);
+  width: 500px;
+  font-family: sans-serif;
+  color: whitesmoke;
+  padding-left: 50px;
+  margin-top: 40px;
+  font-weight: 700;
+}
+.back
+{
+    background-color: rgb(168, 204, 204);
+    width: 700px;
+    height: 400px;
+    margin-left: 100px;
+    margin-top: 100px;
+    border-radius: 15px;
+    z-index: 1; 
+    overflow: hidden;
+}
+.number
+{
+  color: rgb(113, 134, 148);
+  padding-left: 50px;
+  margin-top: 20px;
+  font-weight: 700;
+}
+.credit
+{
+  border: 0px;
+  border-bottom: 1px solid black;
+  background-color: rgb(178, 209, 209);
+  padding-left: 50px;
+  margin-top: 10px;
+  margin-left: 50px;
+  height: 30px;
+  font-size: 20px;
+}
+.inline-block {
+  display: inline-block;
+}
+.date
+{
+  border: 0px;
+  border-bottom: 1px solid black;
+  background-color: rgb(178, 209, 209);
+  height: 30px;
+  font-size: 5px;
+  margin-left: 50px;
+}
+.bg-picture {
+  width: 256px;
+  height: 256px;
+  position: relative;
+  left: 450px;
+  bottom: 70px;
+}
